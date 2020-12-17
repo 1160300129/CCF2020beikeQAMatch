@@ -2,7 +2,7 @@
 
 <br>2020CCF大数据与计算智能大赛 房地产行业聊天问答匹配赛题  比赛地址链接:https://www.datafountain.cn/competitions/474
 
-<br>最终成绩A榜32/2985；B榜24/2985
+<br>最终成绩A榜31/2985；B榜24/2985
 
 <br>依赖包:加载预训练模型使用的transformers(pip install transformers 好像4.0发布了 需要改一丢丢地方 才能将3.x的代码跑通) <br>
 <br>深度学习框架使用的pytorch
